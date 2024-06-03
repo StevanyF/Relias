@@ -8,9 +8,9 @@ C’est un projet de Data Visualisation créer avec utilisation de 2 API:
     apiUrl = 'https://kayoo123.github.io/astroo-api/jour.json';
           
 
--> deuxième renvoie les information de l’horoscope hebdomadaire
+-> Le deuxième renvoie les information de l’horoscope hebdomadaire
 
-    apiUrl = 'https://kayoo123.github.io/astroo-api/hebdomadaire.json
+    apiUrl = 'https://kayoo123.github.io/astroo-api/hebdomadaire.json;
 
  Pour pouvoir faire appelle aux 2 API on a fait une requête HTTP.
 
