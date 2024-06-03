@@ -28,7 +28,8 @@ Avec ces deux API on a pu créer une page web où l’utilisateur peut introduir
 
 ## Demo
 
-![Capture d'écran 2024-03-27 005411](https://github.com/StevanyF/Relias/assets/146748030/a9b5687a-2913-4ce6-8c03-53c83c5208ad)
+![Capture d'écran 2024-03-27 005411](https://github.com/StevanyF/Relias/assets/146748030/aec1dd1b-67c0-42df-be12-5f540dd835f0)
+
 
 ## Next steps
 Rendre le site web responsive à fin de faciliter la lecture et l'utilisation aussi sur smartphone 
